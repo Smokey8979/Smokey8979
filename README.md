@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omkarthik
-- 👀 I’m interested in PCB designing, power electronics, automation, syngo software developments and many more...
+- 👀 I’m interested in PCB designing, power electronics, automation, ROS and linux system works and many more...
 - 🌱 I’m currently learning Power electronics, Automation and designing
 - 💞️ I’m looking to collaborate on Electronics and automation works 
 - 📫 How to reach me write me at sdhudu@gmail.com
