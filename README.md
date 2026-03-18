@@ -49,5 +49,5 @@ Supports ROS2 Humble & Jazzy. Plug-and-play with `robot_localization` and Nav2.
 
 ## 📬 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarthik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarthikdhudu-a54ab91b9)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sdhudu@gmail.com)
