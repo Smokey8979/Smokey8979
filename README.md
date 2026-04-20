@@ -1,4 +1,4 @@
-# Hey, I'm Omkarthik 👋
+# Hey, I'm Omkarthik.
 
 Robotics & Embedded Systems Engineer. I build things that move, sense, and navigate on their own — from schematic to firmware to ROS2 nav stack.
 
