@@ -3,7 +3,9 @@
 Robotics & Embedded Systems Engineer. I build things that move, sense, and navigate on their own — from schematic to firmware to ROS2 nav stack.
 
 Currently a **Robotics & ROS Developer Intern @ [Kody Technolab](https://kodytechnolab.com)**, Ahmedabad.
-Co-founder of **@ [Drop Print](https://dropprint.in)**.
+
+Co-founder of **[Drop Print](https://dropprint.in)**.
+
 Pre-final year @ **Parul University** — B.Tech Robotics & Automation, graduating April 2026.
 
 Small bots are a real headache ngl. But that's half the fun.
