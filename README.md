@@ -58,8 +58,6 @@ ROS2 driver for the WT901C485 IMU over RS-485 using Modbus RTU. Supports Humble 
 - 🥇 1st place — Projections 2024 Flying Buzz Competition
 - 🚀 ISRO IRoC-U Rover Competition — made it to national team selection
 - 🤝 Co-founded Drobo Club @ Parul University
-- 🇯🇵 Learning Japanese (applied to Kyushu Tech iART Masters for Oct 2026)
-
 ---
 
 ## Reach me
